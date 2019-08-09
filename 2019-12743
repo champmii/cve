@@ -10,3 +10,5 @@ Details: Allows remote attacker to find the user accounts existing on the Social
 
          As a result, the attacker is possible to compromise the user accounts by brute-forcing the password 
          with usernames found.
+
+Ref:     https://github.com/humhub/humhub/commit/97a33c0ad3c548fd8a38a5242972a662d9d39785
